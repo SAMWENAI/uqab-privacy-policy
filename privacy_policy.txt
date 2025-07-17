@@ -1,0 +1,49 @@
+🇸🇦 سياسة الخصوصية – تطبيق Uqab
+نحن في تطبيق Uqab نحترم خصوصيتك ونلتزم بحماية بياناتك الشخصية. تهدف هذه السياسة إلى توضيح كيفية جمع واستخدام وحماية معلوماتك عند استخدام التطبيق.
+
+المعلومات التي نجمعها:
+أذونات الرسائل القصيرة (SEND_SMS, READ_SMS): نستخدم هذه الأذونات لإرسال واستقبال رسائل الطوارئ عند الحاجة.
+
+حالة الهاتف (READ_PHONE_STATE, READ_PHONE_NUMBERS): لمعرفة حالة الشريحة وتغيّرها وإرسال تنبيهات أمنية.
+
+الموقع (ACCESS_FINE_LOCATION, ACCESS_BACKGROUND_LOCATION): نستخدم الموقع لتحديد مكان الجهاز بدقة أثناء الطوارئ.
+
+أذونات أخرى: تُستخدم لتشغيل التطبيق بشكل صحيح وآمن.
+
+كيفية استخدام المعلومات:
+نستخدم المعلومات فقط لأغراض أمنية داخل التطبيق، مثل إرسال تنبيهات الطوارئ. لا نشارك بياناتك مع أي جهة خارجية بدون إذنك.
+
+حماية البيانات:
+نلتزم بتطبيق إجراءات تقنية وإدارية لحماية بياناتك من الوصول غير المصرح به أو التعديل أو التسريب.
+
+حقوقك:
+يحق لك طلب تعديل أو حذف بياناتك في أي وقت عبر التواصل معنا.
+
+التواصل معنا:
+لأي استفسار أو طلب يتعلق بالخصوصية، راسلنا عبر البريد الإلكتروني:
+📧 ewman1978@gmail.com
+
+🇺🇸 Privacy Policy – Uqab App
+At Uqab, we respect your privacy and are committed to protecting your personal information. This policy explains how we collect, use, and safeguard your data when you use the app.
+
+Information We Collect:
+SMS Permissions (SEND_SMS, READ_SMS): Used to send and receive emergency messages directly when needed.
+
+Phone State Permissions (READ_PHONE_STATE, READ_PHONE_NUMBERS): Used to detect SIM status and changes and send security alerts.
+
+Location Permissions (ACCESS_FINE_LOCATION, ACCESS_BACKGROUND_LOCATION): Used to locate the device accurately during emergencies.
+
+Other permissions: Necessary to ensure the secure and correct functioning of the app.
+
+How We Use Information:
+We use your information solely for emergency and security purposes within the app. We do not share it with any third party without your consent.
+
+Data Protection:
+We implement technical and administrative security measures to protect your data from unauthorized access, disclosure, or modification.
+
+Your Rights:
+You can request to modify or delete your data at any time by contacting us.
+
+Contact Us:
+For any privacy-related questions or requests, please contact us via email:
+📧 ewman1978@gmail.com
